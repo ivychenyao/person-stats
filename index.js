@@ -46,3 +46,16 @@ div.innerHTML = `
 
 const personForm = document.querySelector('#person-form')
 personForm.addEventListener('submit', handleSubmit)
+
+function renderColor(div) {
+
+}
+
+// Create list items for each stat
+function renderListItem() {
+
+}
+
+function renderList() {
+    
+}
